@@ -7,5 +7,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idanasayag0&show_icons=true&locale=en" alt="idanasayag0" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmiranda&show_icons=true&locale=en" alt="nirmiranda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idanasayag0&" alt="idanasayag0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chenAmrani0&" alt="chenAmrani0" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chenAmrani&" alt="chenAmrani" /></p>
