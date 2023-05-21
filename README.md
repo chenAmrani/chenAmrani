@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Java , C, C++, Html, CSS, , Node JS, Express , Bootsdrap**.
 
-- 📫 How to reach me **chenamrani50@gmail.com**
+- 📫 How to reach me **chenamrani5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
