@@ -1,7 +1,7 @@
 # READ.md
 
 <<h1 align="center">Hi 👋, I'm Chen Amrani</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">Second year computer science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idanasayag0&label=Profile%20views&color=0e75b6&style=flat" alt="chenamrani" /> </p>
 
