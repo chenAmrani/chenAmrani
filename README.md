@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenamrani&label=Profile%20views&color=0e75b6&style=flat" alt="idanasayag0" /> </p>
 
-- 🌱 I’m currently learning **C, C++, Html, CSS, JavaScript, Java, Node JS, Express** , Bootsdrap.
+- 🌱 I’m currently learning **JavaScript, Java, C, C++, Html, CSS,  Node JS, Express , Bootsdrap**.
 
 - 📫 How to reach me **chenamrani5@gmail.com**
 
