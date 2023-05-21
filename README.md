@@ -1,4 +1,4 @@
-# READ.md
+# README.md
 
 <<h1 align="center">Hi 👋, I'm Chen Amrani</h1>
 <h3 align="center">Second year computer science student</h3>
