@@ -1,7 +1,7 @@
 # README.md
 
 <<h1 align="center">Hi 👋, I'm Chen Amrani</h1>
-<h3 align="center">Second year computer science student</h3>
+<h3 align="center">Fullstack Dveloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenAmrani&label=Profile%20views&color=0e75b6&style=flat" alt="chenamrani" /> </p>
 
