@@ -1,11 +1,8 @@
-# README.md
 
 <<h1 align="center">Hi 👋, I'm Chen Amrani</h1>
 <h3 align="center">Fullstack Dveloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenAmrani&label=Profile%20views&color=0e75b6&style=flat" alt="chenamrani" /> </p>
-
-- 🌱 I’m currently learning **JavaScript, Java , C, C++, Html, CSS, , Node JS, Express , Bootsdrap**.
 
 - 📫 How to reach me **chenamrani5@gmail.com**
 
